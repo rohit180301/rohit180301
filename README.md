@@ -7,7 +7,7 @@
 ## 👨🏻‍💻  About Me
 
 
-- 🎓 I am currently a sophomore in IIIT Dharwad, pursuing a B.Tech degree in Computer Science and Engineering
+- 🎓 I am currently a sophomore at IIIT Dharwad, pursuing a B.Tech degree in Computer Science and Engineering
 
 - 🌱 I'm an aspiring full-stack web developer with more than 1 year of experience
 
