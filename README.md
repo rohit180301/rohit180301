@@ -42,10 +42,6 @@
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
 
- 
-<br/>
-
-
 
 
 ## ⚙️ GitHub Analytics
